@@ -48,7 +48,7 @@ nav{
     margin-left: 10%;
     color: white;
     background-color: rgb(34, 34, 34);
-    box-shadow: 3px 3px 3px rgb(146, 146, 146),-3px  -3px 3px rgb(146 , 146, 146);
+    box-shadow: 3px 3px 5px rgb(211, 211, 211),-3px -3px 5px rgb(211 , 211 , 211);
 }
 .world-map{
     position: absolute;
